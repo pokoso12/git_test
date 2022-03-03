@@ -1,1 +1,1 @@
-hello "todor"
+hello "todor" ti si nomer 1 
